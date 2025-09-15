@@ -1,0 +1,108 @@
+body {
+  background-color: bisque;
+  width: 100%;
+}
+
+.headerFooter {
+  background-color: aqua;
+  border: solid 1px black;
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  height: 50px;
+}
+
+#carrosel {
+  background-color: blue;
+  height: 300px;
+  width: 90%;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+
+#container {
+  display: flex;
+  border: solid 1px black;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  height: 50vh;
+  margin: auto;
+  margin-bottom: 20px;
+  background-color: cadetblue;
+  align-items: center;
+  width: 88%;
+align-content: center;
+justify-content: center;
+
+}
+
+.imagem {
+    background-color: rgb(107, 107, 196);
+  border: solid 1px black;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+  border-radius: 10px;
+ 
+}
+
+#bannerImagem{
+    width: 100%;
+    height: 100%;
+     border-radius: 10px;
+     
+}
+ #batedeira{
+      width: 100%;
+    height: 80%;
+       border-radius: 10px;
+ }
+ #encerar{
+    width: 100%;
+    height: 100%;
+       border-radius: 10px;
+ }
+ #geladeira{
+     width: 100%;
+    height: 100%;
+       border-radius: 10px;
+ }
+ #maquina{
+    width: 100%;
+    height: 100%;
+       border-radius: 10px;
+ }
+ #microondas{
+      width: 100%;
+    height: 100%;
+       border-radius: 10px;
+ }
+ #notebook{
+        width: 100%;
+    height: 100%;
+       border-radius: 10px;
+ }
+ #pneu{
+      width: 100%;
+    height: 100%;
+       border-radius: 10px;
+ }
+ #teve{
+      width: 100%;
+    height: 100%;
+       border-radius: 10px;
+ }
+ #fogao{
+    width: 100%;
+    height: 100%;
+       border-radius: 10px;
+ }
+ #armario{
+    width: 100%;
+    height: 100%;
+       border-radius: 10px;
+ }
+
